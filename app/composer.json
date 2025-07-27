@@ -1,0 +1,22 @@
+{
+    "name": "demo/ddd-timesheet",
+    "description": "A DDD example project for tracking weekly timesheets",
+    "require": {
+        "php": "^8.3",
+        "bramus/router": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0",
+        "phpstan/phpstan": "^2.1"
+    }
+}
