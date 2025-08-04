@@ -1,6 +1,6 @@
 # Medium support
 
-This repository is used as support for the medium article :
+This repository is used as support for the medium article : https://medium.com/@PixelKK/ddd-in-practice-building-timesheet-feature-from-user-story-to-domain-model-b579cf7ecd8a
 
 ## Prerequisites
 
